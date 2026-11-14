@@ -1,0 +1,47 @@
+municipio_cod_divipola,municipio_nom,departamento_nom,casos,edad_mediana,pct_60_o_mas,pct_hombres,pct_contagio_relacionado,mediana_dias_sintomas_diagnostico,pct_fallecidos_covid,recuperados_con_dias,pct_recuperacion_prolongada,menos_de_100_casos
+13001,Cartagena,Cartagena,163526,37.0,14.31,47.18,17.88,14.0,1.44,160217,9.82,False
+13430,Magangue,Bolivar,10530,37.0,16.88,42.61,21.64,14.0,1.72,10258,10.24,False
+13836,Turbaco,Bolivar,4946,38.0,13.55,47.49,19.69,14.0,1.56,4843,9.85,False
+13052,Arjona,Bolivar,2868,39.0,18.58,44.46,22.42,11.0,2.09,2787,5.31,False
+13244,El Carmen De Bolivar,Bolivar,2610,40.0,21.03,43.14,27.39,14.0,4.02,2487,12.02,False
+13468,Mompos,Bolivar,2355,40.0,20.59,42.29,22.04,14.0,2.12,2279,9.52,False
+13657,San Juan Nepomuceno,Bolivar,2170,43.0,22.67,42.17,31.75,14.0,1.38,2129,6.58,False
+13688,Santa Rosa Del Sur,Bolivar,1747,35.0,12.99,51.86,12.42,7.0,2.92,1678,8.46,False
+13442,Maria La Baja,Bolivar,1119,39.0,21.36,41.55,27.61,14.0,0.89,1100,8.55,False
+13654,San Jacinto,Bolivar,1042,42.0,22.26,43.57,33.4,14.0,1.92,1013,7.7,False
+13549,Pinillos,Bolivar,735,39.0,22.31,43.67,19.59,14.0,2.18,713,9.12,False
+13744,Simiti,Bolivar,620,40.0,19.35,48.23,17.42,13.0,4.52,585,8.21,False
+13873,Villanueva,Bolivar,522,40.0,21.07,42.15,20.69,14.0,2.87,504,7.34,False
+13188,Cicuco,Bolivar,518,36.5,16.22,43.63,20.66,14.0,0.58,509,6.29,False
+13683,Santa Rosa,Bolivar,509,36.0,16.11,43.03,19.84,14.0,3.73,484,11.36,False
+13212,Cordoba,Bolivar,503,39.0,25.45,50.1,20.48,14.0,3.18,482,7.05,False
+13140,Calamar,Bolivar,469,40.0,20.26,43.07,32.2,14.0,3.62,445,10.79,False
+13670,San Pablo,Bolivar,462,41.0,16.67,48.27,17.1,6.0,6.71,421,14.96,False
+13433,Mahates,Bolivar,448,37.0,15.62,43.08,19.87,12.0,1.56,435,6.21,False
+13838,Turbana,Bolivar,447,36.0,14.09,51.01,17.0,14.0,1.57,438,13.24,False
+13006,Achi,Bolivar,443,41.0,19.41,45.6,18.06,14.0,2.26,427,18.74,False
+13894,Zambrano,Bolivar,432,39.0,19.68,45.83,34.49,14.0,2.78,415,6.27,False
+13620,San Cristobal,Bolivar,334,42.0,19.16,45.81,30.54,14.0,1.5,328,4.27,False
+13780,Talaigua Nuevo,Bolivar,327,38.0,17.13,41.59,19.27,14.0,2.45,319,7.84,False
+13248,El Guamo,Bolivar,324,39.0,25.62,44.14,49.38,8.0,2.47,314,2.87,False
+13074,Barranco De Loba,Bolivar,292,40.0,19.86,40.41,10.62,14.0,3.77,277,7.22,False
+13810,Tiquisio (Puerto Rico),Bolivar,285,37.0,17.54,46.67,11.93,14.0,1.75,276,4.35,False
+13647,San Estanislao,Bolivar,253,39.0,18.58,39.13,24.9,14.0,3.16,244,6.56,False
+13673,Santa Catalina,Bolivar,241,40.0,19.92,40.66,15.35,14.0,1.66,236,2.54,False
+13600,Rio Viejo,Bolivar,229,41.0,21.83,48.91,17.03,14.0,3.06,217,11.52,False
+13667,San Martin De Loba,Bolivar,229,47.0,24.45,46.72,8.3,14.0,5.68,213,15.49,False
+13030,Altos Del Rosario,Bolivar,224,43.0,18.3,42.41,25.0,14.0,3.57,215,11.16,False
+13440,Margarita,Bolivar,215,42.0,23.26,46.05,11.16,14.0,4.65,204,6.86,False
+13042,Arenal,Bolivar,212,42.5,19.81,48.58,24.53,14.0,6.13,198,15.66,False
+13222,Clemencia,Bolivar,209,35.0,14.83,40.67,8.13,7.0,3.35,199,7.04,False
+13160,Cantagallo,Bolivar,191,39.0,12.57,71.73,13.61,9.0,1.57,188,15.43,False
+13760,Soplaviento,Bolivar,177,38.0,19.77,44.07,16.95,14.0,3.39,170,10.0,False
+13490,Norosì,Bolivar,173,39.0,19.08,44.51,21.39,14.0,1.73,170,5.88,False
+13268,El Peñon,Bolivar,173,42.0,21.97,41.62,32.95,14.0,4.62,165,11.52,False
+13300,Hatillo De Loba,Bolivar,164,35.0,14.02,37.8,26.83,14.0,4.27,154,4.55,False
+13473,Morales,Bolivar,123,54.0,41.46,47.15,6.5,14.0,12.2,104,27.88,False
+13580,Regidor,Bolivar,111,34.0,17.12,54.95,27.93,14.0,2.7,104,5.77,False
+13458,Montecristo,Bolivar,105,36.0,17.14,58.1,13.33,14.0,1.9,101,10.89,False
+13062,Arroyohondo,Bolivar,85,38.0,17.65,40.0,15.29,12.0,4.71,80,3.75,True
+13650,San Fernando,Bolivar,85,44.0,27.06,49.41,12.94,14.0,9.41,76,13.16,True
+13655,San Jacinto Del Cauca,Bolivar,80,40.0,25.0,32.5,15.0,10.0,7.5,73,43.84,True
